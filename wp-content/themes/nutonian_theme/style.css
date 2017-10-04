@@ -153,13 +153,19 @@
 .row-fluid [class*="span"]:first-child{margin-left:0}
 .row-fluid .span12{
     width:99.99999998999999%;
-    *width:99.94680850063828%}
+    *width:99.94680850063828%
+}
+
 .row-fluid .span11{
     width:91.489361693%;
-    *width:91.4361702036383%}
+    *width:91.4361702036383%
+}
+
 .row-fluid .span10{
     width:82.97872339599999%;
-    *width:82.92553190663828%}
+    *width:82.92553190663828%
+}
+
 .row-fluid .span9{
     width:74.468085099%;
     *width:74.4148936096383%}
